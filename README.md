@@ -3,6 +3,8 @@
 Computer Science master's grad passionate about game development, reinforcement learning, and building interactive software that makes technical ideas feel playable and approachable.
 
 <div align="center">
+  <img src="./Video_Projects_Banners.gif" alt="Natalie Huante project banner" width="800"/>
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-natalie--huante.com-f5b642?style=for-the-badge)](https://www.natalie-huante.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natalie%20Huante-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliehuante/)
