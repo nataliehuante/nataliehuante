@@ -2,11 +2,29 @@
 
 Computer Science master's grad passionate about game development, reinforcement learning, and building interactive software that makes technical ideas feel playable and approachable.
 
-## About Me
+<div align="center">
 
-- I love building games, tools, and interactive projects
-- Interested in software engineering, game development, AI/ML, reinforcement learning, and computer graphics
-- Big fan of organized workflows, creative problem-solving, and finally getting the code to behave
+[![Portfolio](https://img.shields.io/badge/Portfolio-natalie--huante.com-f5b642?style=for-the-badge)](https://www.natalie-huante.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Natalie%20Huante-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliehuante/)
+[![Resume](https://img.shields.io/badge/Resume-Download-6A5ACD?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./NatalieHuante_Resume.pdf)
+
+</div>
+
+
+## What I'm Interested In
+
+- Game development and interactive systems
+- Reinforcement learning and AI/ML projects
+- Computer graphics and simulation
+- Software engineering tools, automation, and clean workflows
+- Turning technical ideas into things people can actually play with, test, or use
+
+## Education
+
+**Chapman University**  
+M.S. Electrical Engineering and Computer Science, 2026  
+B.S. Computer Science, Minor in Game Development Programming, 2024
+
 
 ## Tech Stack
 
@@ -16,28 +34,25 @@ Computer Science master's grad passionate about game development, reinforcement 
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks & Tools
+### Game, AI, and Graphics
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![PyGame](https://img.shields.io/badge/PyGame-2C2D72?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Web / Data
+
+### Tools and Web
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 ## Featured Projects
 
@@ -48,6 +63,14 @@ Computer Science master's grad passionate about game development, reinforcement 
 | [OC Restaurant Vibe Classifier](https://github.com/nataliehuante/oc-restaurant-vibe-classifier) | NLP classifier fine-tuned with DistilBERT to predict restaurant vibes from Yelp reviews |
 | [Parallelized Boid Simulation](https://github.com/nataliehuante/Parallelized_Boid_Simulation) | C++ and OpenMP simulation comparing serial and parallel boid flocking performance |
 | [MediLingo](ADD_REPO_LINK_HERE) | Medical terminology learning platform with flashcards, quizzes, mini-games, and text-to-speech support |
+
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nataliehuante&theme=github_dark" alt="GitHub Profile Summary"/>
+</div>
+
 
 ## Links
 
