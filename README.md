@@ -73,6 +73,9 @@ B.S. Computer Science, Minor in Game Development Programming, 2024
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nataliehuante&theme=github_dark" alt="GitHub Profile Summary"/>
 </div>
 
+> **Note:** Repository commit histories and GitHub Stats may not fully reflect my original development timeline due to an August migration from my student-email GitHub account to my current personal GitHub account.
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXc4ZWxlZWNvaXppMzkzemVlY2IwcGRuNnNueGU5a3JkZWN1czhkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="coding gif" width="200"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWNwcHNraWhrMTR4c2t6Mnp1b3B2d2EwaDIwZDRmcGh1c2g5bzVwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" alt="coding gif" width="200"/>
